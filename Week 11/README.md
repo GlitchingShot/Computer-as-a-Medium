@@ -2,9 +2,9 @@
 
 Juliana Reina made Task 1: Health_Pack
 
-Arianna Lacy made Task 2:
+Arianna Lacy made Task 2:Trap
 
-Video Link for Task 2:
+Video Link for Task 2:https://www.youtube.com/watch?v=zgy4MMZMulU
 
 Juliana Reina made Task 3: PlayerMana, Mana, playerColorSwap
 
